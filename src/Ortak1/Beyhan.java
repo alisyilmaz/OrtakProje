@@ -5,5 +5,6 @@ public class Beyhan {
 
         System.out.println("bu benbim denemem");
         System.out.println("ikinci deneme");
+        System.out.println("task 3");
     }
 }
